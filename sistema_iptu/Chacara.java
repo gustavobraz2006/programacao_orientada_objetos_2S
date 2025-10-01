@@ -16,5 +16,4 @@ public class Chacara extends Imovel{
     public void setPossuiPocoArtesiano(Boolean possuiPocoArtesiano) {
         this.possuiPocoArtesiano = possuiPocoArtesiano;
     }
-   
 }
